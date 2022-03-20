@@ -1,0 +1,5 @@
+1. how does changing the kernel function affect each of the classifier ?
+hint - you have to run svm with different kernels and see the output consider only classification accuracy
+
+2.How can you tell which kernel does the best job at building a classifier for a particular set of data ? 
+Compare using different performance metrics
